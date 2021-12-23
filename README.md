@@ -1,5 +1,8 @@
 # Welcome to Subtitle Manager 👋
 
+<a href="#">
+    <img alt="Status" src="https://img.shields.io/badge/status-⛔ Discontinued-red.svg" />
+</a>
 <a href="./LICENSE" target="_blank">
     <img alt="License: GNU GPL v3" src="https://img.shields.io/badge/License-GNU%20GPL%20v3-yellow.svg" />
 </a>
